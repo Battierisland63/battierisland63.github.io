@@ -1,4 +1,4 @@
-hello, this is my new webpage. i have added a link to platformer from the webpage.
+Hello, this is my new webpage. I have added a link to platformer from the webpage.
 
 
 
